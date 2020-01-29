@@ -1,1 +1,2 @@
 Ovo je test tekst fajl
+Ovaj red je dodao Slobodan.
