@@ -1,2 +1,3 @@
-Ovo je test tekst
+Ovo je tekst
 Ovaj red je dodao Slobodan.
+Treci red.
